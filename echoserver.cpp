@@ -1,7 +1,3 @@
-/*
- * 程序名：echoserver.cpp，回显（EchoServer）服务器。
- * 作者：吴从周
-*/
 #include <signal.h>
 #include "EchoServer.h"
 
